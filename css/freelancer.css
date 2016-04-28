@@ -384,6 +384,15 @@ footer .footer-below {
   opacity: 0;
   display: none;
 }
-body {
-  background: transparent;
+img {
+  width: 9cm;
+}
+.role {
+  text-transform: none;
+}
+.surname {
+  font-size: 3.8em !important;
+}
+.role {
+  font-size: 3.2em !important;
 }
