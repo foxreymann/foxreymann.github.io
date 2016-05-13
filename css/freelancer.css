@@ -384,8 +384,9 @@ footer .footer-below {
   opacity: 0;
   display: none;
 }
-img {
+header img {
   width: 9cm;
+  margin: 0 auto;
 }
 .role {
   text-transform: none;
