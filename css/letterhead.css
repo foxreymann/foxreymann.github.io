@@ -1,0 +1,13 @@
+footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 400px;
+    left: calc(50% - 200px);
+    color: black;
+}
+
+header img {
+  display: inline;
+  width: 100px;
+}
